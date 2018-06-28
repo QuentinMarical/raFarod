@@ -7,6 +7,7 @@ Remplace Farod par Rafod.
 Google Chrome : 
 
 Pour l'utiliser:
+
 1 - Téléchargez le sur le Chrome Web Store : https://chrome.google.com/webstore/detail/rafarod/mfemjmfmgpcdmcjbpjmaegcclfnpeaog
 
 OU
