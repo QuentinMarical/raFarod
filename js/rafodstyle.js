@@ -43,7 +43,7 @@ function handleText(textNode)
 	v = v.replace(/\bFarodGames\b/g, "RafodGammsLà");
 	v = v.replace(/\bFarod Games\b/g, "Rafod Gamms Là");
 	v = v.replace(/\bBonjour à toutes et à tous et bienvenue pour une nouvelle vidéo\b/g, "Bonjour à tous les amis, c'est ... RAFOD!");
-	v = v.replace(/\bPlagieur Professionnel · http://instagram.com/rafodgamms  Mail pro : rafodgamms@gmail.com\b/g, "SLT À TOUSSE LES ZAMI C RAFOD !!!!");
+	v = v.replace(/\bPlagieur Professionnel\b/g, "SLT À TOUSSE LES ZAMI C RAFOD !!!!");
 	v = v.replace(/\bMontpellier, France\b/g, "dan ton gro q");
 	v = v.replace(/\bInscrit en janvier 2014\b/g, "Inscrit en mars 2017");
 	v = v.replace(/\bM'id sur une photo où j'apparais pas = bloque\b/g, "SLT A TOUS LES AMIS C RAFOD");
