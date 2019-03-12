@@ -1,18 +1,19 @@
 # raFarod
 
-Remplace Farod par Rafod.
+Remplace Rafod par Rafod.
 
-![Farod](farod.jpg)
+![Rafod](rafod.jpg)
 
 Google Chrome : 
 
 Pour l'utiliser:
 
-1 - Téléchargez le sur le Chrome Web Store (Version 1.0) : https://chrome.google.com/webstore/detail/rafarod/mfemjmfmgpcdmcjbpjmaegcclfnpeaog
+1 - Téléchargez le sur le Chrome Web Store : https://chrome.google.com/webstore/detail/rafarod/mfemjmfmgpcdmcjbpjmaegcclfnpeaog
 
 OU
 
-2 - Télécharger ce dépot et le charger comme "unpacked extension" dans Chrome (Version 1.2 *La plus récente*) (http://megastuces.com/installer-extensions-google-chrome-non-officiel/)
+2 - Télécharger ce dépot et le charger comme "unpacked extension" dans Chrome
+(http://megastuces.com/installer-extensions-google-chrome-non-officiel/)
 
 
 Captures d'écran :
