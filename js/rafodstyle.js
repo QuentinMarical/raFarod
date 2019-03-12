@@ -38,12 +38,12 @@ function handleText(textNode)
 	v = v.replace(/\bFAROD\b/g, "RAFOD");
 	v = v.replace(/\bRofad\b/g, "Rafod");
 	v = v.replace(/\brofad\b/g, "rafod");
-		v = v.replace(/\bROFAD\b/g, "RAFOD");
-	v = v.replace(/\bfarodgames\b/g, "rafodgamms");
-	v = v.replace(/\bFarodGames\b/g, "RafodGamms");
-	v = v.replace(/\bFarod Games\b/g, "Rafod Gamms");
+	v = v.replace(/\bROFAD\b/g, "RAFOD");
+	v = v.replace(/\bfarodgames\b/g, "rafodgammslà");
+	v = v.replace(/\bFarodGames\b/g, "RafodGammsLà");
+	v = v.replace(/\bFarod Games\b/g, "Rafod Gamms Là");
 	v = v.replace(/\bBonjour à toutes et à tous et bienvenue pour une nouvelle vidéo\b/g, "Bonjour à tous les amis, c'est ... RAFOD!");
-	v = v.replace(/\bou encore Tueur de Toriel\b/g, "ou encore Plagiat de Paulok");
+	v = v.replace(/\bPlagieur Professionnel\b/g, "Plagiat de la chaîne de Paulok");
 	v = v.replace(/\bPro Nintendo\b/g, "Pro Sega");
 	
 	textNode.nodeValue = v;
