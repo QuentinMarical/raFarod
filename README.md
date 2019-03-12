@@ -14,5 +14,7 @@ OU
 
 2 - Télécharger ce dépot et le charger comme "unpacked extension" dans Chrome (http://megastuces.com/installer-extensions-google-chrome-non-officiel/)
 
-Firefox :
-Je fais des recherches pour rendre compatible l'addon avec!
+
+Captures d'écran :
+https://i.imgur.com/GGkpGvB.png
+https://i.imgur.com/MrlVrau.png
