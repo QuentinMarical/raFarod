@@ -41,14 +41,14 @@ function handleText(textNode)
 	v = v.replace(/\bROFAD\b/g, "RAFOD");
 	v = v.replace(/\bfarodgames\b/g, "rafodgammslà");
 	v = v.replace(/\bFarodGames\b/g, "RafodGammsLà");
-	v = v.replace(/\bFarod Games\b/g, "Rafod Gamms Là");
+	v = v.replace(/\bFarod Games\b/g, "RafodGammsLà");
 	v = v.replace(/\bBonjour à toutes et à tous et bienvenue pour une nouvelle vidéo\b/g, "Bonjour à tous les amis, c'est ... RAFOD!");
 	v = v.replace(/\bPlagieur Professionnel\b/g, "SLT À TOUSSE LES ZAMI C RAFOD !!!!");
 	v = v.replace(/\bMontpellier, France\b/g, "dan ton gro q");
 	v = v.replace(/\bInscrit en janvier 2014\b/g, "Inscrit en mars 2017");
 	v = v.replace(/\bM'id sur une photo où j'apparais pas = bloque\b/g, "SLT A TOUS LES AMIS C RAFOD");
 	v = v.replace(/\bYoutuber Amateur · Pro Nintendo\b/g, "Youtuber Cancer · Pro Sony");
-	
-	
+	v = v.replace(/\bfait des vidéos sur des jeux vidéo, j'aime bien parler de bug et tout, c vachemen bi1 c ma maman ki mla di\b/g, "SLT À TOUS LES AMIS C'EST LAUPOK !!!!");
+
 	textNode.nodeValue = v;
 }
