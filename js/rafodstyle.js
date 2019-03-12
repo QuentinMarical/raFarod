@@ -48,8 +48,6 @@ function handleText(textNode)
 	v = v.replace(/\bInscrit en janvier 2014\b/g, "Inscrit en mars 2017");
 	v = v.replace(/\bM'id sur une photo où j'apparais pas = bloque\b/g, "SLT A TOUS LES AMIS C RAFOD");
 	v = v.replace(/\bYoutuber Amateur · Pro Nintendo\b/g, "Youtuber Cancer · Pro Sony");
-	v = v.replace(/\b1⃣ 0⃣0⃣0⃣ 0⃣0⃣0⃣\b/g, "GE PLAJI POLOK ET JEN SUY FIÉR");
-
 	
 	
 	textNode.nodeValue = v;
